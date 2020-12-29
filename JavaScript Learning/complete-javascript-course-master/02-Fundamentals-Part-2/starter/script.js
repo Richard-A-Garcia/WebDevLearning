@@ -172,3 +172,4 @@
 //     types[i] = typeof jonasArray[i];
 // }
 // console.log(types);
+// console.log("test");
