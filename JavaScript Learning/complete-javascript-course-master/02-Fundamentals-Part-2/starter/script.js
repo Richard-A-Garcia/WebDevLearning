@@ -173,3 +173,15 @@
 // }
 // console.log(types);
 // console.log("test");
+/**let markMass = 95;
+let markHeight = 1.88;
+let johnMass =85;
+let johnHeight = 1.76;
+
+let markbmi= markMass / (markHeight**2);
+let johnbmi= johnMass / (johnHeight**2);
+let markHigherBMI = markbmi > johnbmi;
+
+console.log("Does Mark have a higher bmi than John? " + markHigherBMI);
+**/
+  
